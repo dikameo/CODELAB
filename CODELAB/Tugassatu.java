@@ -14,7 +14,7 @@ public class Tugassatu {
 
         switch (pil) {
             case 1:
-                System.out.println("Pilihan 1");
+                // System.out.println("Pilihan 1");
                 System.out.print("Enter Your NIM : ");
                 nim = input.next();
                 if (nim.length()==15) {
@@ -25,7 +25,7 @@ public class Tugassatu {
                 Tugassatu.main(null);
                 break;
             case 2:
-                System.out.println("Pilihan 2");
+                // System.out.println("Pilihan 2");
                 System.out.print("Enter Your Username (admin) : ");
                 useradmin = input.next();
                 System.out.print("Enter Your NIM (admin) : ");
