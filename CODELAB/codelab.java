@@ -12,7 +12,7 @@ public class codelab{
         String jkel;
         String tgl;
 
-        System.out.print("masukkan nama :");
+        System.out.print("Nama :");
         nama = input.nextLine();
 
         System.out.print("Jenis Kelamin(L/P) :");
@@ -29,11 +29,11 @@ public class codelab{
         int bulan = umur.getMonths();
 
         
-        System.out.println("nama saya : " + nama);
+        System.out.println("\nNama : " + nama);
         if (jkel.equalsIgnoreCase("P")) {
-            System.out.println("Perempuan");
+            System.out.println("Jenis Kelamin : Perempuan");
         }else if (jkel.equalsIgnoreCase("L")){
-            System.out.println("Laki - Laki");
+            System.out.println("Jenis Kelamin : Laki - Laki");
         }else{
             System.out.println("Tidak ditemukan");
         }
