@@ -47,7 +47,8 @@ public class Tugassatu {
             default:
                 System.out.println("INVALID INPUT MASZEH !!");
                 Tugassatu.main(null);
-                break;
+                break;   
         }
+        input.close();
     }
 }

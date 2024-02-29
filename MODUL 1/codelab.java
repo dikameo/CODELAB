@@ -39,6 +39,6 @@ public class codelab{
         }
 
         System.out.print("Umur Anda : " + tahun + " tahun "+ bulan +" bulan");
-
+        input.close();
     }
 }
