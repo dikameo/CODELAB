@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Tugassatu {
     public static void main(String[] args) {
+        // dicoba
         Scanner input = new Scanner(System.in);
         int pil;
         String useradmin,passadmin,nim;
