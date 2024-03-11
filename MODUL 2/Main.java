@@ -33,6 +33,14 @@ public class Main {
         }
 
     public static void main(String[]args){
+
+        /* 
+         * Nama: Wahyu Andika 
+         * Nim : 202310370311075
+         * Kelas : 2B
+         * Modul : CODELAB MODUL 2 
+         * 
+         */
         Main.menu();
     }
     
